@@ -1,0 +1,8 @@
+[user]
+	name = Matt Duff
+	email = matthewlduff@gmail.com
+[filter "media"]
+	clean = git-media-clean %f
+	smudge = git-media-smudge %f
+[color]
+	ui = true

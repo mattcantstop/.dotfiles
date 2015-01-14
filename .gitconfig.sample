@@ -1,6 +1,6 @@
 [user]
-	name = Matt Duff
-	email = matthewlduff@gmail.com
+	name = Your Name
+	email = your_email
 [filter "media"]
 	clean = git-media-clean %f
 	smudge = git-media-smudge %f
